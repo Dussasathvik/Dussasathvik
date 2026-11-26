@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dussasathvik
-- 👀 I’m interested in Android application development
-- 🌱 I’m currently learning flutter and java
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning Nmap, Wireshark, Splunk, Kali Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just mail to dussasathvik@gmail.com
 
